@@ -31,6 +31,6 @@ Fizz
 FizzBuzz
 .... etc.
 
-Hint
-Remember your answer should start from 1 and go up to and including 100.
-2. Each number/text should be printed on a separate line.
+<img width="893" alt="DraggedImage" src="https://user-images.githubusercontent.com/117787883/201504351-185c121b-c246-465c-89d7-ce6c60717d9e.png">
+
+
